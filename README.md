@@ -24,7 +24,7 @@ The Services Used For Create The Inferstrucre Of The Deployment
 ## RDS
 
 The RDS Used for hosting the postgres database
-![Alt text](docs/images/postgres-screanshot.png)
+![Alt text](docs/images/postgres_screanshot.png)
 
 ## EC2
 

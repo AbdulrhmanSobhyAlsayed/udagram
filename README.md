@@ -30,7 +30,7 @@ The RDS Used for hosting the postgres database
 
 The EC2 Used to hosting the Node js backend web server
 ![Alt text](docs/images/nodejs-screanshot.png)
-![Alt text](docs/image/configration-sceanshot.png)
+![Alt text](docs/images/configration-sceanshot.png)
 
 ## S3
 

@@ -2,4 +2,4 @@
 
 ## The Overview Of Infrastructure Of the Project
 
-![Alt text](docs/images/overview.png)
+![Alt text](soverview.png)

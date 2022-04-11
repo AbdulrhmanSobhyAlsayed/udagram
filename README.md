@@ -43,4 +43,4 @@ S3 used as storage to host the frontend static website and to storage the files
 Circle CI used for pipeline and it connected to my github repo  
 ![Alt text](docs/images/pipeline-1.png)
 ![Alt text](docs/images/pipeline-2.png)
-![Alt text](docs/images/pipeline-3.png)
+![Alt text](docs/images/pipelineEnv.png)

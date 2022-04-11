@@ -14,7 +14,7 @@ The Backend Link
 http://learnappapi-dev.eba-ekgms9gv.us-east-1.elasticbeanstalk.com/
 ```
 
-The Services Used For Create The Inferstrucre Of The Deployment
+The Services Used For Create The Infrastructure Of The Deployment
 
 - AWS RDS
 - AWS ES2
